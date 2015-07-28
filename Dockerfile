@@ -1,4 +1,4 @@
-FROM registry.ng.bluemix.net/ibmnode:latest
+FROM registry.stage1.ng.bluemix.net/ibmnode:latest
 #FROM node:latest
 
 # Move the package.json and npm.install into a seperate
