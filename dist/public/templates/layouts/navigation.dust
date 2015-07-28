@@ -8,8 +8,6 @@
 
             <a href="/table"><img src="/images/blank.gif" class="icon-list-investmentsIcon" /></a>
 
-            <a href="/investment"><img src="/images/blank.gif" class="icon-investmentsIcon" /></a>
-
             <a href="/calculator"><img src="/images/blank.gif" class="icon-calculatorIcon" /></a>
         </nav>
         <div id="wrapper" class="content">
